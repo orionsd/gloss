@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main-block {
+    margin-top: 30px;
+}
+
+.entry {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.entry__text {
+    display: block;
+    padding: 3px 7px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    resize: none;
+}
+
+.entry__label {
+    color: #5cb85c;
+}
+
+.add {
+    display: inline-block;
+    margin-top: 38px;
+    width: 50px;
+    margin-left: 12px;
+    font-size: 17px;
+}
+
+.hr-line {
+    background-color: #337ab7;
+    height: 1px;
+    width: 100%;
+    margin: 30px 0;
+}
